@@ -1,8 +1,14 @@
-# hackSheffield 5 Discord Bot
+# <img style="max-width: 30px;" src="logo.jpg?raw-true"> hackSheffield 5 Discord Bot
 
-<img style="max-width: 300px;" src="logo.jpg?raw-true">)
 
 Type `!time` to see how long is remaining!
+
+There will be announcements at:
+- Start of the hackathon
+- Half way point
+- Devpost reminder at 10 AM
+- Devpost reminder at 11 AM
+- End of the hackathon
 
 ## Installation
 
