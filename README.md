@@ -6,8 +6,9 @@ Type `!time` to see how long is remaining!
 There will be announcements at:
 - Start of the hackathon
 - Half way point
-- Devpost reminder at 10 AM
-- Devpost reminder at 11 AM
+- Devpost reminder at 10:00
+- Devpost reminder at 11:00
+- Devpost reminder at 12:00
 - End of the hackathon
 
 ## Installation

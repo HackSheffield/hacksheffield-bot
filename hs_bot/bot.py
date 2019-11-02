@@ -48,6 +48,8 @@ async def check_time():
         elif hour == 11 and minute == 00 and second == 00 and day == 3:
             await devpost(hour)
         elif hour == 12 and minute == 00 and second == 00 and day == 3:
+            await devpost(hour)
+            await asyncio.sleep(1)
             await finish()
         await asyncio.sleep(1)
 
