@@ -63,7 +63,7 @@ async def half_way():
                           description="12 hours to go! ⏰",
                           colour=0x0094d8)
     await main_channel.send(embed=embed)
-    await announcement.send(embed=embed)
+    await announcement_channel.send(embed=embed)
 
 async def mlh(title, description):
     embed = discord.Embed(title=title,
